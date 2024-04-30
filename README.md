@@ -1,1 +1,0 @@
-# OpenCore-EFI-Gigabyte-A320M-H
