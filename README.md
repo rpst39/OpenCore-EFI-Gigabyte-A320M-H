@@ -6,7 +6,7 @@ The serial number is removed.
 
 SMBIOS is MacPro7,1
 
-#Specs
+# Specs
 
 Motherboard: Gigabyte A320M-H
 
@@ -26,4 +26,4 @@ Storage:
 
 	- HL-DT-ST DVD-RAM GSA-H60L Optical Drive
 
-OpenCore version: 0.9.9
+OpenCore version: 1.0.0
