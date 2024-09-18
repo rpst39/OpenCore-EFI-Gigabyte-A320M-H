@@ -4,7 +4,7 @@ Other than some sleep issues that also happen on Windows and Linux it runs macOS
 
 The serial number is removed.
 
-SMBIOS is MacPro7,1
+SMBIOS is iMacPro1,1
 
 # Specs
 
@@ -26,4 +26,4 @@ Storage:
 
 	- HL-DT-ST DVD-RAM GSA-H60L Optical Drive
 
-OpenCore version: 1.0.0
+OpenCore version: 1.0.1
